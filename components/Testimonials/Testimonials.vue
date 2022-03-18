@@ -1,7 +1,7 @@
 <template>
   <div class="testimonial-wrap">
     <h3 class="display-2 text-center mb-4">
-      Testimonials
+      Testimonialse
     </h3>
     <p class="body-1 text-center mb-4">
       Curabitur egestas consequat lorem, vel fermentum augue porta id.
